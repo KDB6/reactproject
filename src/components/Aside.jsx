@@ -10,15 +10,15 @@ const Aside = () => {
             <div className="category">
                 <ul>
                     <li>
-                        <img src="assets/img/popular.svg" alt="popular" />
+                        <img src="img/popular.svg" alt="popular" />
                         인기
                     </li>
                     <li>
-                        <img src="../public/assets/img/emotion.svg" alt="emotion" />
+                        <img src="img/emotion.svg" alt="emotion" />
                         감정
                     </li>
                     <li>
-                        <img src="assets/img/famous.svg" alt="famous" />
+                        <img src="img/famous.svg" alt="famous" />
                         유명
                     </li>
                     <li>
@@ -31,9 +31,9 @@ const Aside = () => {
             <div id="footer">
                 <h2>UMzzzzal..</h2>
                 <div className="img">
-                    <img src="assets/img/insta.svg" alt="insta" />
-                    <img src="assets/img/face.svg" alt="face" />
-                    <img src="assets/img/twitter.svg" alt="twitter" />
+                    <img src="img/insta.svg" alt="insta" />
+                    <img src="img/face.svg" alt="face" />
+                    <img src="img/twitter.svg" alt="twitter" />
                 </div>
                 <div className="footer__desc">
                     <p>@2022 copyright</p>
