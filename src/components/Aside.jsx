@@ -2,7 +2,7 @@ import React from 'react'
 
 const Aside = () => {
     return (
-        <div>
+        <div className='aside'>
             <h2>UMzzzzal..</h2>
             <input type="text" id="searchInput" placeholder="원하는 움짤 태그를 검색해주세요." title="검색" required />
             <h3>카테고리</h3>

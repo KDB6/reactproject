@@ -2,6 +2,7 @@ import React from 'react'
 
 const SubList = () => {
   return (
+    <div className="contents">
       <div id="subList">
         <div className="subList">
             <div className="subList__list">
@@ -55,6 +56,7 @@ const SubList = () => {
                 </div>
             </div>
         </div>
+    </div>
     </div>
   )
 }

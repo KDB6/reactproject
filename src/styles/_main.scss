@@ -1,12 +1,12 @@
 #main{
     display: flex;
 }
-#aside {
+.aside {
     width: 19%;
     background: #FFD5BD;
     min-height: 100vh;
 }
-#contents {
+.contents {
     width: 81%;
     background: #FFFCFA;
     min-height: 100vh;
