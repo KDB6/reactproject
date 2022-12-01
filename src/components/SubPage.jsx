@@ -1,8 +1,17 @@
 import React from 'react'
+import Aside from './Aside'
+import SubView from './SubView'
+import SubList from './SubList'
+import Tag from './Tag'
 
 const SubPage = () => {
   return (
-    <div>SubPage</div>
+    <div>
+      <Aside />
+      <Tag />
+      <SubView />
+      <SubList />
+    </div>
   )
 }
 

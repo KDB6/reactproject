@@ -1,17 +1,16 @@
 import React from 'react'
 
-
 const Aside = () => {
     return (
         <div>
             <h2>UMzzzzal..</h2>
-            <input type="text" id="searchInput" placeholder="원하는 움짤 태그를 검색해주세요." title="검색" required>
+            <input type="text" id="searchInput" placeholder="원하는 움짤 태그를 검색해주세요." title="검색" required />
             <h3>카테고리</h3>
 
             <div className="category">
                 <ul>
                     <li>
-                        <img src="assets/img/popular.svg" alt="popular" />
+                        <img src="./assets/img/popular.svg" alt="popular" />
                         인기
                     </li>
                     <li>
