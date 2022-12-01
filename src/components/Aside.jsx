@@ -10,11 +10,11 @@ const Aside = () => {
             <div className="category">
                 <ul>
                     <li>
-                        <img src="./assets/img/popular.svg" alt="popular" />
+                        <img src="assets/img/popular.svg" alt="popular" />
                         인기
                     </li>
                     <li>
-                        <img src="assets/img/emotion.svg" alt="emotion" />
+                        <img src="../public/assets/img/emotion.svg" alt="emotion" />
                         감정
                     </li>
                     <li>
