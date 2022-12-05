@@ -10,7 +10,7 @@ const SubList = () => {
                     <img src="img/sub/horse.jpg" alt="리스트 움짤" />
                 </div>
                 <div className="list__desc">
-                    <h2>제목 : 말이 미친듯이 웃는다..</h2>
+                    <h2>제목 : 말이 미친듯이 웃는다..a</h2>
                     <div className="list__tag">
                         <h2>TAG!</h2>
                         <ul>
